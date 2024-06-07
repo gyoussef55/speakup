@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864901255028",
+    "project_id": "speak-up-f0d45",
+    "storage_bucket": "speak-up-f0d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864901255028:android:ce56f3616dc8434738e621",
+        "android_client_info": {
+          "package_name": "com.example.speakup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPG-7sbiY4LE-yPeqKfGH-s1VarmzQo0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
